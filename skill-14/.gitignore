@@ -1,0 +1,32 @@
+# =========================
+# GENERAL
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# FRONTEND (React / Vite)
+# =========================
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.env
+
+# =========================
+# BACKEND (Spring Boot / Maven)
+# =========================
+backend/target/
+backend/*.log
+
+# =========================
+# IDE FILES
+# =========================
+.vscode/
+.idea/
+*.iml
+
+# =========================
+# OS / TEMP FILES
+# =========================
+*.swp
+*.swo
