@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Vyshnavi Paila",
+    "email": "vyshnavi@gmail.com",
+    "phone": "9876543210"
+  },
+  {
+    "id": 2,
+    "name": "Tulasi Gogisetty",
+    "email": "tulasi@gmail.com",
+    "phone": "9123456780"
+  },
+  {
+    "id": 3,
+    "name": "Sarah Sukerthana",
+    "email": "sarah@gmail.com",
+    "phone": "9988776655"
+  }
+]
