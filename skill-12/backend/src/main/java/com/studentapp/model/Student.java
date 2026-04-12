@@ -19,7 +19,7 @@ public class Student {
     public Student(String name, String email, String course) {
         this.name = name;
         this.email = email;
-        this.course = course;
+        this.course = course; 
     }
 
     public Long getId() { return id; }
